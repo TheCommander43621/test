@@ -95,7 +95,7 @@ public class ModConfig {
 
     private static JsonArray defaultCompatibleBlocksJson() {
         JsonArray compatibleBlocks = new JsonArray();
-        compatibleBlocks.add("minecraft:chain");
+        compatibleBlocks.add("minecraft:torch");
         compatibleBlocks.add("minecraft:end_rod");
         compatibleBlocks.add("minecraft:scaffolding");
 
